@@ -1,6 +1,6 @@
 {
  "killswitch": {
-  "enabled": true,
+  "enabled": false,
   "title": "App is not available",
   "message": "Sorry, there’s a problem with this app right now. Please try again later."
  },
