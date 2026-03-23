@@ -5,7 +5,7 @@
   "message": "Sorry, there’s a problem with this app right now. Please try again later."
  },
  "forceupgrade": {
-  "enabled": false,
+  "enabled": true,
   "appStoreUrl": "url"
  },
  "authConfig": {
